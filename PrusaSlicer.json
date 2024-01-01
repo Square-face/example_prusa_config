@@ -1,0 +1,6 @@
+{
+    "vendor:PrusaResearch": {
+        "model:MK4IS": {"0.4", "append"},
+        "model:MK3S": {"0.4", "append"}
+    }
+}
